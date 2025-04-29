@@ -1,8 +1,10 @@
-# React + Vite
+# Jornal Responsivo - Projeto React - 2023
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este é um projeto de um jornal responsivo desenvolvido com **React**. O projeto apresenta várias seções de notícias, como **Cinema**, **Esportes**, **Mundo**, **Música** e **Turismo**, com cada seção sendo representada por um componente.
 
-Currently, two official plugins are available:
+## Tecnologias Utilizadas
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **React**: Para a construção da interface e renderização de componentes.
+- **SCSS**: Para a estilização das páginas, com suporte a variáveis, aninhamento e mixins.
+- **Styled Components**: Para estilos dinâmicos baseados em componentes.
+- **Media Queries**: Para garantir a responsividade do layout.
